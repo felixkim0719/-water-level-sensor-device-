@@ -78,3 +78,7 @@ void loop() {
 This improved version of the cup noodle water level device is more practical as it can be used with various sizes of cup noodles. The construction process is simple, making it easy for anyone to build.
 
 If you have any questions, feel free to ask. I'm here to help!
+
+## Contact
+
+For more information or collaboration proposals, please contact [felixkim0719@gmail.com].
