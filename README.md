@@ -1,13 +1,6 @@
 # water-level-sensor-device
  Instant noodle water level sensor device for the visually impaired
 
-
-
-
-
-
-# Improved Cup Noodle Water Level Device
-
 ## Introduction
 
 This is an improved version of the cup noodle water level device featured in OneShot Hansol's YouTube video [Cup Noodle Water Control Device](https://www.youtube.com/shorts/jPbPJbluq0A). It addresses the issues identified in the original design.
