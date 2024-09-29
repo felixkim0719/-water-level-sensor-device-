@@ -76,7 +76,7 @@ void loop() {
 
 ## Conclusion
 
-This improved version of the cup noodle water level device is more practical as it can be used with various sizes of cup noodles. The construction process is simple, making it easy for anyone to build.
+This improved version of the cup noodle water level device for the visually impaired is more practical as it can be used with various sizes of cup noodles. The construction process is simple, making it easy for anyone to build.
 
 If you have any questions, feel free to ask. I'm here to help!
 
