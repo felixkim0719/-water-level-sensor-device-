@@ -8,7 +8,8 @@ This is an improved version of the cup noodle water level device featured in One
 ## Improvements
 
 - **Use of rubber bands**: Allows adaptation to various cup noodle sizes
-- **Non-contact water level sensor**: Provides more accurate water level detection
+- **Non-contact water level sensor**: Provides more hygienic water level detection
+
 
 ## Materials Needed
 
